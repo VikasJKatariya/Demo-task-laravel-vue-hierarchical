@@ -1,11 +1,11 @@
 # Dynamic CMS with Nested Pages (Laravel 11 + Vue 3)
 
 # Watch the demo video to see the CMS in action:
-[🎥 Watch the Demo Video](./laravel-vue-tree-demo.mov)
+[🎥 Watch the Demo Video](./laravel-vue-tree-demo.mov) ==== **#CLICK HERE TO DOWNLOAD**
 
 [![Watch the Demo Video](./laravel-vue-tree-demo1.gif)](./laravel-vue-tree-demo.mov)
 
-
+### <a href="./laravel-vue-tree-demo.mov" style="font-size: 24px; font-weight: bold; text-decoration: none;">🔥 CLICK HERE TO DOWNLOAD DEMO VIDEO 🔥</a>
 
 ## Introduction
 This project is a dynamic CMS built with Laravel 11 (backend) and Vue 3 (frontend), capable of handling unlimited nested pages while dynamically resolving content based on the parent-child relationship.
