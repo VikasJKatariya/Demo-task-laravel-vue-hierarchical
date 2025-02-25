@@ -2,6 +2,11 @@
 
 [🎥 Watch the Demo Video](./laravel-vue-tree-demo.mov)
 
+[![Watch the Demo Video](./laravel-vue-tree-demo1.gif)](./laravel-vue-tree-demo.mov)
+
+
+
+
 
 ## Introduction
 This project is a dynamic CMS built with Laravel 11 (backend) and Vue 3 (frontend), capable of handling unlimited nested pages while dynamically resolving content based on the parent-child relationship.
