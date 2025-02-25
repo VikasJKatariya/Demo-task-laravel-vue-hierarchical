@@ -1,10 +1,9 @@
 # Dynamic CMS with Nested Pages (Laravel 11 + Vue 3)
 
+# Watch the demo video to see the CMS in action:
 [🎥 Watch the Demo Video](./laravel-vue-tree-demo.mov)
 
 [![Watch the Demo Video](./laravel-vue-tree-demo1.gif)](./laravel-vue-tree-demo.mov)
-
-
 
 
 
